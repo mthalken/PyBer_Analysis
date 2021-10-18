@@ -17,7 +17,7 @@
 
 ## Results 
 ### Analysis
-- Total ride fare Summary
+- Total ride fare Summary \n
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary_table.PNG)
 - Total ride fare by city type (Summary)
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
@@ -29,11 +29,11 @@
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/Fig3.png)
 - Driver count based on city type and number of rides. 
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/Fig4.png)
-- Percentage of total fares by city type.
+- Percentage of total fares by city type. \n
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/Fig5_bg.png)
-- Percentage of total rides by city type.
+- Percentage of total rides by city type. \n
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/Fig6_bg.png)
-- Percentage of total drivers by city type.
+- Percentage of total drivers by city type. \n
     ![png](https://github.com/mthalken/PyBer_Analysis/blob/main/analysis/Fig7_bg.PNG)
 
 ## Summary
