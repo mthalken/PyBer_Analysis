@@ -6,7 +6,7 @@
 1. Calculate and present a bubble chart that shows the average fare versus the total number of rides based on the total number of drivers for each city type (including urban, suburban, and rural). 
 2. Calculate the measures of central tendency for the total number of rides, the average fares, and the total number of drivers for each city type.
 3. Create box-and-whisker plots to display outliers for the number of rides, fares, and drives by city type. 
-4. Create a pid chart to show the percent of total fares, rides, and drivers by city type.
+4. Create a pie chart to show the percent of total fares, rides, and drivers by city type.
 5. Calculate and present a summary of the data that shows the weekly fares by city type in a multiple-line graph. 
 
 ## Resources
